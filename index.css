@@ -1,3 +1,4 @@
+/*Formatting for my header and main description section*/
 h1{
     text-align: center;
     font-size: 35;
@@ -20,7 +21,7 @@ h2{
     color: cornsilk;
     text-align: center;
 }
-
+/*Formatting my qualification, experience and skills section */
 .expr{
     display: inline-block;
     margin-left:15%;
@@ -38,7 +39,7 @@ h2{
     display: inline-block;
     margin-left: 23%;
 }
-
+/*Formatting for my contact details*/
 .contact{
     background-color: blueviolet;
     width:50%;
